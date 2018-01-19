@@ -1,4 +1,4 @@
-#Vault
+# Vault
 
 Vault is a simple command line utility for storing & retrieving AES encrypted data. 
 
